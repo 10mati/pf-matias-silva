@@ -1,0 +1,123 @@
+@mixin iconos ($color-redes) {
+
+    width: 35px;
+    height: 35px;
+    box-shadow: $color-redes;
+}
+
+.redes {
+    .face {
+        @include iconos (blue);
+    }
+
+    .whatsapp {
+        @include iconos (green)
+    }
+
+    .inst {
+        @include iconos (purple)
+    }
+
+    .twitter {
+        @include iconos (#1DA1F2)
+    }
+}
+
+.footer {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 98%;
+    height: 150px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+
+
+}
+
+.info {
+    width: 47%;
+    display: flex;
+    align-items:center;
+    justify-content: space-around;
+    list-style-type: none;
+    padding: 0;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+.info a {
+    text-decoration: none;
+    color: rgb(26, 25, 25);
+}
+
+.info:hover a{
+    filter: blur(3px);
+}
+.info a:hover{
+    filter: blur(0px);
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.redes {
+
+    width: 47%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    overflow: hidden;
+}
+
+.redes li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    width: 100%; height: 100%;
+
+}
+
+.redes:hover li{
+    filter: blur(3px);
+}
+.redes li:hover{
+    filter: blur(0px);
+    scale: 110%;
+}
+
+
+@media screen and (max-width: 767px) {
+    .footer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+        font-size: 15px;
+        width: 80%;
+        margin: auto;
+    }
+
+    .redes {
+        padding: 5px;
+        width: 98%;
+    }
+    .logo{
+        margin: 5px 5px;
+    }
+
+    .info {
+        margin: auto;
+        width: 98%;
+        display: flex;
+        flex-direction: column;
+        margin-top: 5px;
+    }
+}

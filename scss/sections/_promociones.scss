@@ -1,0 +1,28 @@
+/* Pagina Promociones */
+
+.promociones-bancarias {
+    margin-top: 70px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    h1 {
+        margin: 30px;
+    }
+}
+
+.promociones-bancarias img {
+    width: 100%;
+
+}
+
+@media screen and (max-width: 767px) {
+    .promociones-bancarias {
+        text-align: center !important;
+    }
+
+    .promociones-bancarias img {
+        width: 100%;
+        height: 200px;
+    }
+}

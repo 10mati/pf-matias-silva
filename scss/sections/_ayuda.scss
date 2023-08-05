@@ -1,0 +1,28 @@
+/* pagina ayuda bootstrapp */
+
+main {
+    min-height: 80vh;
+}
+
+.titulo-ayuda {
+    margin-top: 120px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#accordionFlushExample {
+    width: 70% !important;
+    margin: auto;
+    margin-top: 90px;
+    border: 1px solid rgb(66, 63, 63);
+    border-radius: 3px;
+}
+
+@media screen and (max-width: 767px) {
+    .container-mapa {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+    }
+}

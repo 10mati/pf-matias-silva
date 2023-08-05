@@ -1,0 +1,54 @@
+/* pagina Locales */
+
+.titulo-locales {
+    margin-top: 70px;
+    background-image: url(../recursos/imagenes/000.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    width: 98vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    filter: grayscale(100%);
+}
+
+.titulo-locales h1 {
+    display: flex;
+    font-size: 50px;
+    color: #f0f0f0;
+}
+
+.container-mapa {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: flex-start;
+    width: 97%;
+}
+
+.container-mapa h1 {
+    padding: 30px;
+}
+
+.mapa {
+    padding-top: 10px;
+    margin: 30px;
+    position: relative;
+    border: 1px solid #78919b;
+    border-radius: 10px;
+    width: 50%;
+}
+
+.mapa iframe {
+    width: 99%;
+}
+
+@media screen and (max-width: 767px) {
+    .mapa {
+        width: 80%;
+    }
+}
