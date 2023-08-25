@@ -1,0 +1,154 @@
+               Diseño Web  
+ 
+ 
+
+
+
+1. PLANES  SITIOS  WEB E-COMMERCE 
+
+
+* ECOMMERCE 1: Hasta 4 paginas + Slider simple + Catalogo de venta $160.000
+
+* ECOMMERCE 2: Hasta 6 paginas + Slider simple + Catalogo de ventas $200.000
+
+* ECOMMERCE 3: Hasta 6 paginas + Slider animado + Catalogo de ventas + Blog de artículos $260.000
+
+* ECOMMERCE 4: Hasta 7 paginas + Slider animado + Catalog de ventas + Blog de articulos $280.000
+
+* A MEDIDA: Los diseños a medida son cuando ninguna de nuestas plantillas se adaptan a lo que necesita, o ya cuentan con un diseño a implementar o un sitio web de referencia. El mismo arranca del valor indicado, pero esta sujeto a evaluacion de la propuesta. Valor $320.000
+ 
+
+ 
+
+   Precio final, por única vez, expresado en Pesos Argentinos. No incluye dominio y hosting (ver pag 3.) 
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+ SERVICIOS  
+
+ 
+
+2.1 Servicios Incluidos 
+ 
+
+ Diseño adaptativo: para celulares, tablets, y cualquier dispositivo. 
+
+ Escalable: se pueden agregar secciones / funcionalidades a futuro abonando solo el adicional correspondiente. 
+
+ Autoadministrable:  se  puede  administrar  (borrar,  agregar,  modificar)  su  contenido  de  manera  sencilla, sin necesidad de pagar por mantenimiento. 
+
+ Instructivo: que explica cómo administrar su contenido. 
+
+ Semana de soporte incluida: posterior al alta online para ajustes y soporte en la herramienta de administración. 
+
+ Carga de contenido: se  entregan con 10 productos cargados a modo de muestra. Al ser autoadministrable  es sencillo cargar el resto (consultar por carga extra). 
+
+ 
+
+2.2 Servicios adicionales 
+ 
+
+ Burbuja flotante de whatsapp: visible en todas las páginas y dispositivos. Conecta directo para chatear con una cuenta de whatsapp. 7.000 $ 
+
+ Chat online: posibilidad que los visitantes chateen con un operador para despejar dudas. 30.000 $ 
+
+ Publicación automática en redes sociales: se  publica  una  nota en  tu  sitio  y en  un  par  de  clicks se replica en facebook, twitter, linkedin, etc. 25.000 $  
+
+ Suscripción a lista de correos:  formulario  que  captura  un  mail  y  lo  guarda  en  una  lista  de  contactos  de  un servicio de correos conocido (por ej Mailchimp, Sendinblue, etc.). 30.000 $ 
+
+ Mantenimiento: si bien los sitios son autoadministrables también ofrecemos el servicio de mantenimiento. Su costo  es  de 2.500 $ la  hora,  fraccionado  por  hora.  Se  acumula  el  trabajo  de  todo el  mes  y  se  abona mensualmente. No hay costo fijo mensual, se solicita cuando se requiere. 
+
+ Multilenguaje: mostrar  el  sitio  en  más  de  un  idioma. Se  duplican  las  páginas  y  contenidos  y  se traducen  los mismos (las traducciones las aporta el cliente). 90.000 $ 
+ 
+
+Hay otra opción que es usar un plugin que funciona con el traductor automático de Google. Tiene un costo de 45.000$ la implementación y se pueden incluir la cantidad de idiomas que te gusten.
+DOMINIO Y HOSTING  
+
+ 
+
+El presupuesto no incluye contrato de hosting y dominio.  
+
+  
+
+Dominio:  es el nombre que lleva tu web, por ejemplo www.nombredeldominio.com. El dominio puede ser: 
+ 
+
+ .com.ar (orientado a Argentina): se registra en nic.ar con clave Fiscal de AFIP.  
+
+ .com y otros (más global): se registra con las empresas que ofrecen hosting. 
+
+ 
+
+Hosting (alojamiento): son los servidores donde se va a alojar tu sitio. Esto es muy importante porque de ello depende 
+
+que la página esté siempre accesible, que sea segura, que no sea lenta, etc.  
+
+ 
+
+Si ya contás con el servicio o querés elegir vos la empresa lo único necesario es que soporte sitios en WordPress.  
+
+ 
+
+Si preferís delegar este servicio en nosotros también ofrecemos esta posibilidad, los valores actuales son: 
+
+ 
+
+ Plan E-Commerce: 45.000$ anuales. Hosting + Dominio .com.ar 
+ 
+Incluye cuentas de correo asociadas al dominio, certificados SSL de sitio seguro, y toda la gestión con la empresa 
+de hosting en caso de haber problemas o consultas a realizar. 
+ 
+                    (los dominios .com tienen un costo adicional de 8.000 $) 
+
+ 
+ 
+
+  
+
+
+
+ METODOLOGÍA DE TRABAJO Y FORMA DE PAGO 
+
+ 
+
+ Nos  manejamos online: teléfono,  whatsapp,  mail,  etc. También  vía  meet,  Zoom,  etc.  podemos  compartir  la pantalla para revisar requerimientos en caso de ser necesario. 
+ 
+
+ Con el acceso al panel del hosting desarrollamos el sitio directamente en su ubicación definitiva para optimizar tiempos y costos. El sitio estará accesible y se podrá seguir su avance desde una dirección no pública. 
+ 
+
+ El  cliente deberá proveer  el  contenido del  sitio:  logo,  imágenes,  textos,  etc. Si  no se  dispone de  imágenes podemos buscar en bancos gratuitos con derechos de uso.  
+ 
+
+ Duración:  el  tiempo  estimado  de  desarrollo  es de 3  semanas.  Siempre  contando desde el  momento  en que tengamos el acceso al hosting. Puede terminarse en menos tiempo si el ida y vuelta es rápido. 
+ 
+
+ Una vez finalizado el sitio entregamos el instructivo de administración. Además hay una semana posterior al alta online para ajustes y soporte en caso de necesitarse. 
+ 
+
+ Medios de pago: transferencia bancaria o MercadoPago (permite pago con tarjetas). Por MercadoPago hay una comisión del 8%. Se realiza un adelanto antes de comenzar del 50% y el resto al finalizar el proyecto, siempre que no se extienda más de un mes desde el pago inicial. En esa instancia se deberá efectuar el pago del saldo restante del proyecto o se ajustarán los valores posteriormente según inflación. 
+ 
+
+ Somos monotributistas y hacemos factura C.  
+ 
+
+ 
+( le pido mil disculpas, pero lo tuve que pegar y guardar en un blog de notas porque tuve problemas con el word)
+
+
+
+
+
+
